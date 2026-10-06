@@ -1,0 +1,18 @@
+User-agent: *
+Disallow: 
+
+User-Agent: *
+Disallow: /login.php
+Disallow: /lp-1video.php
+Disallow: /lp-4video.php
+Disallow: /lp-video-curs.php
+Disallow: /success.php
+Disallow: /inregistrare-PO-raspuns-err.php
+Disallow: /inregistrare-PO-raspuns-ok.php
+Disallow: /inregistrare-PO-raspuns.php
+Disallow: /despre-cookie-uri
+Disallow: /termeni-si-conditii
+Disallow: /politica-de-confidentialitate
+
+Sitemap: https://www.neuroprogres.ro/sitemap.xml
+Sitemap: https://www.neuroprogres.ro/sitemap-image.xml

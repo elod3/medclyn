@@ -1,0 +1,870 @@
+<!DOCTYPE html>
+<html lang="RO" itemscope itemtype="https://schema.org/WebSite">
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<title>Eroare 404! | MedClyn</title>
+		
+		<meta name="title" content="Eroare 404! | MedClyn" />
+		<meta name="description" content="Pagina nu a fost gasita!<br>Foloseste butonul de mai jos pentru a reveni la pagina principala" />
+		<meta name="keywords" content="404" />
+		<meta name="subject" content="Eroare 404! | MedClyn" />
+		
+		<meta name="owner" content="" />
+		<meta name="copyright" content="" />     
+
+		<meta name="rating" content="general" />
+		<meta name="revisit-after" content="15" />
+		<meta name="language" content="RO" />
+		<meta name="robots" content="all" />
+
+					<link rel="shortcut icon" type="image/png" href="https://www.medclyn.com/uploads/website/MedClyn.jpg">
+				
+		<link rel="canonical" href="https://www.medclyn.com/404.php" />
+
+<meta property="og:site_name" content="" />
+
+<meta property="og:title" content="Eroare 404! | MedClyn" />
+
+<meta property="og:description" content="Pagina nu a fost gasita!<br>Foloseste butonul de mai jos pentru a reveni la pagina principala" />
+
+<meta property="og:type" content="website" />
+
+<meta property="og:url" content="https://www.medclyn.com/404.php" />
+
+<meta property="og:image" content="https://www.medclyn.com/img/social-share.jpg" />
+
+        
+        <style type="text/css">
+            /* S: Loader */
+            #preload {
+                top: 0;
+                left: 0;
+                bottom: 0;
+                right: 0;
+                margin: auto;
+                position: fixed;
+                width: 100%;
+                height: 100%;
+                background-color: #fff;
+                z-index: 9999999;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                overflow: hidden;
+            }
+            #preload .kd-bounce {
+                width: 40px;
+                height: 40px;
+                position: relative;
+                margin: 40px auto;
+            }
+            #preload .kd-bounce:before,
+            #preload .kd-bounce:after {
+                content: '';
+                display: block;
+                width: 100%;
+                height: 100%;
+                border-radius: 50%;
+                background-color: #242424;
+                opacity: 0.4;
+                position: absolute;
+                top: 0;
+                left: 0;
+                animation: kd-bounce 2.4s infinite ease-in-out;
+            }
+            #preload .kd-bounce:after { animation-delay: -1.2s; }
+            @keyframes kd-bounce {
+                0%, 100% { transform: scale(0); }
+                50% { transform: scale(1); }
+            }
+            /* E: Loader */
+            
+            .header-mobile {
+                display: none;
+            }
+        </style>
+		
+		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+        
+        <!--<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We" crossorigin="anonymous">-->
+
+		<link rel="preconnect" href="https://fonts.gstatic.com">
+        <link href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;1,300;1,400;1,600;1,700;1,800&display=swap" rel="stylesheet">
+		
+		<link rel="stylesheet" href="https://www.medclyn.com/css/fontawesome-pro-5.15.4-web/css/all.min.css">
+		<link rel="stylesheet" href="https://www.medclyn.com/css/animate.css">
+
+		        
+        <link rel="stylesheet" href="https://www.medclyn.com/js/plugins/fancybox-3.5.7/jquery.fancybox.min.css">
+
+		
+		
+							<link rel="stylesheet" type="text/css" href="https://www.medclyn.com/js/plugins/swiper/css/swiper.min.css" />
+		
+		
+        
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/keen-slider@latest/keen-slider.min.css" />
+        
+		<link rel="stylesheet" href="https://www.medclyn.com/css/stylesheet.css?v=124049">
+
+		
+					<!-- Global site tag (gtag.js) - Google Analytics -->
+			<script async src="https://www.googletagmanager.com/gtag/js?id=UA-" ></script>
+			<script >
+				window.dataLayer = window.dataLayer || [];
+				function gtag(){dataLayer.push(arguments);}
+				gtag('js', new Date());
+				gtag('config', 'UA-');
+			</script>
+		        
+
+		        
+        
+                    <!-- Facebook Pixel Code -->
+            <script>
+            !function(f,b,e,v,n,t,s)
+            {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+            n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+            if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+            n.queue=[];t=b.createElement(e);t.async=!0;
+            t.src=v;s=b.getElementsByTagName(e)[0];
+            s.parentNode.insertBefore(t,s)}(window, document,'script',
+            'https://connect.facebook.net/en_US/fbevents.js');
+            fbq('init', '1017455495266542');
+            fbq('track', 'PageView');
+            </script>
+            <noscript><img height="1" width="1" style="display:none"
+            src="https://www.facebook.com/tr?id=1017455495266542&ev=PageView&noscript=1"
+            /></noscript>
+            <!-- End Facebook Pixel Code -->
+                
+
+					<meta name="facebook-domain-verification" content="bgpq15pultt1aw9c061uuprqmwez9x" />			</head>
+
+	<body class="e404 ">
+        
+        <div class="bs-canvas-overlay bg-dark position-fixed w-100 h-100"></div>
+        
+        
+                    <div id="preload">
+                <div class="kd-bounce">
+                    <div></div>
+                    <div></div>
+                </div>
+            </div>
+        
+		<div class="hide-menu"></div>
+
+        
+        
+                
+             
+            
+                <div class="mobile py-3 border-bottom shadow">
+                    <div class="container">
+                        <div class="row align-items-center">
+                            <div class="col-5 pr-0">
+                                <div class="logo">
+                                                                            <a href="https://www.medclyn.com/"><img src="https://www.medclyn.com/uploads/website/MedClyn_2.jpg" alt="MedClyn"></a>
+                                                                    </div>
+                            </div>
+                            
+                            <div class="col-7 pl-0">
+                                <div class="row justify-content-end">
+                                    <div class="col-auto p-0">
+                                                                                    <a class="" href="https://www.medclyn.com/login.php" data-toggle="tooltip" title="Logare">
+                                                <i class="fas fa-user mr-1"></i> 
+                                            </a>
+                                                                            </div>
+                                    
+                                    <div class="col-auto pr-0 pl-4">
+                                        <a href="https://www.medclyn.com/contact" class="" style="font-size: 20px;">
+                                            <i class="fas fa-phone-square"></i>
+                                        </a>
+                                    </div>
+                                    
+                                                                        
+                                                                        
+                                                                        
+                                        
+                                    <div class="col-auto pl-4 pr-3">
+                                                                                <a class="" href="#bs-canvas-navHD" data-toggle="canvas" data-open="right" aria-expanded="false" aria-controls="bs-canvas-navHD">
+                                            <i class="fas fa-bars"></i> 
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+    
+                        </div>
+                    </div>
+                </div>
+    
+                        
+        
+                <div id="bs-canvas-navHD" class="bs-canvas bs-canvas-right position-fixed bg-light h-100">
+                                        <div class="bs-canvas-content ">
+                        <div class="p-3" id="navHD">
+                            
+                            <div class="">
+                                <div class="logo mb-5 text-center bg-white p-3">
+                                                                            <a href="https://www.medclyn.com/"><img class="w-75" src="https://www.medclyn.com/uploads/website/MedClyn_1.jpg" alt="MedClyn"></a>
+                                                                    </div>
+
+                                <div>
+                                                                            <div class="main-menu mb-5">
+                                            <nav>
+                                                <ul class="menu-list text-left">
+                                                                                                            <li class=" ">
+                                                            <a class="d-block " style="" href="https://www.medclyn.com/" title="Acasa" target="">                                                                <i class="fal fa-chevron-right small pr-1"></i>
+                                                                <i class="fas fa-home"></i> Acasa                                                            </a>
+
+                                                                                                                    </li>
+                                                                                                            <li class=" ">
+                                                            <a class="d-block " style="" href="https://www.medclyn.com/portofoliu/" title="Portofoliu Clienti" target="">                                                                <i class="fal fa-chevron-right small pr-1"></i>
+                                                                Portofoliu Clienti                                                            </a>
+
+                                                                                                                    </li>
+                                                                                                            <li class=" ">
+                                                            <a class="d-block " style="" href="https://www.medclyn.com/video" title="Video" target="">                                                                <i class="fal fa-chevron-right small pr-1"></i>
+                                                                Video                                                            </a>
+
+                                                                                                                    </li>
+                                                                                                            <li class=" ">
+                                                            <a class="d-block " style="" href="https://www.medclyn.com/blog" title="Articole" target="">                                                                <i class="fal fa-chevron-right small pr-1"></i>
+                                                                Articole                                                            </a>
+
+                                                                                                                    </li>
+                                                                                                            <li class=" ">
+                                                            <a class="d-block " style="" href="https://www.medclyn.com/galerie-foto" title="Galerie Foto" target="">                                                                <i class="fal fa-chevron-right small pr-1"></i>
+                                                                Galerie Foto                                                            </a>
+
+                                                                                                                    </li>
+                                                                                                            <li class=" ">
+                                                            <a class="d-block " style="" href="https://www.medclyn.com/testimoniale" title="Testimoniale" target="">                                                                <i class="fal fa-chevron-right small pr-1"></i>
+                                                                Ce spun clientii                                                            </a>
+
+                                                                                                                    </li>
+                                                                                                            <li class=" ">
+                                                            <a class="d-block " style="" href="https://www.medclyn.com/search/search?s=" title="Magazin Online" target="">                                                                <i class="fal fa-chevron-right small pr-1"></i>
+                                                                Magazin Online                                                            </a>
+
+                                                                                                                    </li>
+                                                                                                            <li class=" ">
+                                                            <a class="d-block " style="" href="https://www.medclyn.com/contact" title="Contact" target="">                                                                <i class="fal fa-chevron-right small pr-1"></i>
+                                                                Contact                                                            </a>
+
+                                                                                                                    </li>
+                                                                                                    </ul>
+                                            </nav>
+                                        </div>
+                                                                    </div>
+
+                                <div class="d-flex align-items-end">
+                                    <div class="w-100">
+                                        <div class="">
+                                            <div class="">
+                                                
+                                                <div class="contact-links text-left">
+                                                                                                            <a class="mr-3"  href="tel:0733 200 500">0733 200 500</a><br>
+                                                                                                                                                                <a  href="mailto:contact@medclyn.com">contact@medclyn.com</a>
+                                                                                                    </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="search-wrapper overflow-auto text-left">
+                                    <span class="hide-search">&times;</span>
+                                    <div class="container">
+                                        <form class="mx-auto" action="https://www.medclyn.com/blog/" method="GET" autocomplete="off">
+                                            <div class="input-group input-group-lg align-items-center">
+                                                <div class="input-group-prepend">
+                                                    <button class="btn btn-link" type="submit"><i class="fa fa-search"></i></button>
+                                                </div>
+                                                <input class="form-control" value="" type="text" name="search" placeholder="Cauta">
+                                            </div>
+                                        </form>
+                                        <div class="search-results mx-auto py-5"></div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                        </div>
+                    </div>    
+                </div>
+        
+    
+                <!-- USER MENU -->
+                                <div id="bs-canvas-UserNav" class="bs-canvas bs-canvas-right position-fixed bg-light h-100">
+                    <div class="bs-canvas-header p-3 bg-primary overflow-auto">
+                        <button type="button" class="bs-canvas-close float-left close" aria-label="Close" aria-expanded="false"><span aria-hidden="true" class="text-light">&times;</span></button>
+                        <h5 class="d-inline-block text-light mb-0 float-right">Contul meu</h5>
+                    </div>
+                    <div class="bs-canvas-content ">
+                        <div class="p-3" id="UserNav">
+                            <div class="main-menu">
+                                <nav>
+                                    <ul class="menu-list text-left">
+                                                                                                                                                                            <li class="">
+                                                    <a class="d-block" href="https://www.medclyn.com/user-account.php" target="_self">
+                                                        <i class="fal fa-chevron-right small pr-1"></i>
+                                                        Contul meu                                                    </a>
+                                                </li>
+                                                                                            <li class="">
+                                                    <a class="d-block" href="https://www.medclyn.com/user-change-pass.php" target="_self">
+                                                        <i class="fal fa-chevron-right small pr-1"></i>
+                                                        Schimba parola                                                    </a>
+                                                </li>
+                                                                                            <li class="">
+                                                    <a class="d-block" href="https://www.medclyn.com/user-orders.php" target="_self">
+                                                        <i class="fal fa-chevron-right small pr-1"></i>
+                                                        Comenzile mele                                                    </a>
+                                                </li>
+                                                                                            <li class="">
+                                                    <a class="d-block" href="https://www.medclyn.com/user-prv.php" target="_self">
+                                                        <i class="fal fa-chevron-right small pr-1"></i>
+                                                        Produse recent vizualizate                                                    </a>
+                                                </li>
+                                                                                            <li class="">
+                                                    <a class="d-block" href="https://www.medclyn.com/logout.php" target="_self">
+                                                        <i class="fal fa-chevron-right small pr-1"></i>
+                                                        Delogheaza-te                                                    </a>
+                                                </li>
+                                                                                                                        </ul>
+                                </nav>
+                            </div>
+                        </div>
+                    </div>    
+                </div>
+        
+        
+        
+                <div id="bs-canvas-CartHD" class="bs-canvas bs-canvas-right position-fixed bg-light h-100">
+                    <div class="bs-canvas-header p-3 bg-primary overflow-auto">
+                        <button type="button" class="bs-canvas-close float-left close" aria-label="Close" aria-expanded="false"><span aria-hidden="true" class="text-light">&times;</span></button>
+                        <h5 class="d-inline-block text-light mb-0 float-right">Cosul meu</h5>
+                    </div>
+                    <div class="bs-canvas-content ">
+                        <div class="p-3" id="CartHD">
+                            <div id="sidebarCartMsg" class="alert alert-info d-none"></div>
+    
+                            <div class="offcanvas-body position-relative">
+                                <div class="custom-loader-wrapper">
+                                    <div class="custom-loader"></div> 
+                                </div>
+                            </div>
+
+                                                            <div class="offcanvas-header border-top d-block bg-grey text-center pt-3">
+
+                                    <div class="text-muted small font-weight-bold">
+                                        <span id="JScartTotalPno"></span> produse | Total: <span id="JScartTotalP"></span> Lei                                    </div>
+
+                                    <a href="https://www.medclyn.com/cart.php" class="btn btn-secondary btn-lg my-3 d-block heart-pulseX"><i class="fas fa-arrow-circle-right"></i> Vezi detalii cos</a>
+                                </div>
+                                                    </div>
+                    </div>    
+                </div>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+            
+                
+                                    
+<header>
+    <div class="container-fluid">
+        <div class="row py-2 px-4">
+            <div class="col-md-2 d-none d-md-flex align-items-center">
+                <div class="logo">
+                                            <a href="https://www.medclyn.com/">
+                            <img src="https://www.medclyn.com/uploads/website/MedClyn_1.jpg" alt="MedClyn" class="w-75">
+                        </a>
+
+                                    </div>
+            </div>
+
+            <div class="col-md-8 d-flex justify-content-center">
+                <div class="d-flex align-items-center">
+                    <nav class="navbar navbar-expand-lg p-0">
+                        <div class="collapse navbar-collapse justify-content-center flex-wrap px-0" id="navbar">
+                            <ul class="navbar-nav" style="width: max-content;">
+                                                                                                                                                        <li class="nav-item px-2 ">
+                                                <a class="nav-link font-weight-bold" href="https://www.medclyn.com/" ><i class="fas fa-home"></i> Acasa</a>
+                                            </li>
+
+                                                                                                                                                                <li class="nav-item px-2 ">
+                                                <a class="nav-link font-weight-bold" href="https://www.medclyn.com/portofoliu/" >Portofoliu Clienti</a>
+                                            </li>
+
+                                                                                                                                                                <li class="nav-item px-2 ">
+                                                <a class="nav-link font-weight-bold" href="https://www.medclyn.com/video" >Video</a>
+                                            </li>
+
+                                                                                                                                                                <li class="nav-item px-2 ">
+                                                <a class="nav-link font-weight-bold" href="https://www.medclyn.com/blog" >Articole</a>
+                                            </li>
+
+                                                                                                                                                                <li class="nav-item px-2 ">
+                                                <a class="nav-link font-weight-bold" href="https://www.medclyn.com/galerie-foto" >Galerie Foto</a>
+                                            </li>
+
+                                                                                                                                                                <li class="nav-item px-2 ">
+                                                <a class="nav-link font-weight-bold" href="https://www.medclyn.com/testimoniale" >Ce spun clientii</a>
+                                            </li>
+
+                                                                                                                                                                <li class="nav-item px-2 ">
+                                                <a class="nav-link font-weight-bold" href="https://www.medclyn.com/search/search?s=" >Magazin Online</a>
+                                            </li>
+
+                                                                                                                                                                <li class="nav-item px-2 ">
+                                                <a class="nav-link font-weight-bold" href="https://www.medclyn.com/contact" >Contact</a>
+                                            </li>
+
+                                                                                                                                        </ul>
+                        </div>
+                    </nav>
+
+                </div>
+
+            </div>	
+            
+            
+            
+            <div class="col-md-2 d-flex justify-content-end">
+                <div class="d-flex align-items-center">
+                    <nav class="navbar navbar-expand-lg p-0">
+                        <div class="collapse navbar-collapse justify-content-end flex-wrap px-0" id="navbar">
+                            <ul class="navbar-nav" style="width: max-content;">
+                                <li class="nav-item pl-1">
+                                                                            <a class="nav-link cursor-pointer d-flex align-items-center" href="https://www.medclyn.com/login.php" data-toggle="tooltip" title="Logare">
+                                            <i class="fas fa-user mr-1"></i> 
+                                        </a>
+                                                                    </li>
+                                
+                                <li class="nav-item pl-1 d-none">
+                                    <a class="nav-link cursor-pointer d-flex align-items-center position-relative jsLoadBag" href="#bs-canvas-CartHD" data-toggle="canvas" data-open="right" aria-expanded="false" aria-controls="bs-canvas-CartHD">
+                                        <span data-toggle="tooltip" title="Cosul meu">
+                                            <i class="fas fa-shopping-cart mr-1"></i> 
+                                        </span>
+                                        
+                                        <span class="jsHeadNoP position-absolute small rounded-circle square square-15 bg-danger text-white d-none" style="top: 3px; right: 0; line-height: 16px; font-size: 9px; font-family: Arial;">0</span>
+                                    </a>
+                                </li>
+                                
+                                
+                                
+                            </ul>
+                        </div>
+                    </nav>
+
+
+                    <div class="search-wrapper overflow-auto text-left">
+                        <span class="hide-search">&times;</span>
+
+                        <div class="container">
+                            <form class="mx-auto" action="https://www.medclyn.com/blog/" method="GET" autocomplete="off">
+                                <div class="input-group input-group-lg align-items-center">
+                                    <div class="input-group-prepend">
+                                        <button class="btn btn-link" type="submit"><i class="fa fa-search"></i></button>
+                                    </div>
+                                    <input class="form-control" value="" type="text" name="search" placeholder="Cauta">
+                                </div>
+                            </form>
+                            <div class="search-results mx-auto py-5"></div>
+                        </div>
+                    </div>
+
+                </div>
+
+            </div>	
+            
+            
+            
+
+        </div>	
+
+    </div>
+
+</header>                            
+            
+            
+                        
+                
+        
+        
+
+<div id="content">
+	<div class="detail-content text-center pt-5 my-5">
+		<h2>Eroare 404!</h2>
+		<p>&nbsp</p>
+		<h3>Pagina nu a fost gasita!<br>Foloseste butonul de mai jos pentru a reveni la pagina principala</h3>
+		<p class="m-0 mt-5"><a class="btn btn-primary btn-lg" href="https://www.medclyn.com/"><i class="fas fa-chevron-left"></i></a></p>
+	</div>
+</div>
+
+    
+	    
+
+
+    <div class="container border-top" style="margin-top:-1px;">&nbsp;</div>
+    <div class="py-5 my-5">
+        <div class="container">
+            <div class="row">
+                <div class="col-12 col-lg-5">
+                    <div class="w75d-100m">
+                        <a href="https://www.medclyn.com/" class="mb-4 d-block">
+                            <img src="https://www.medclyn.com/uploads/website/MedClyn_1.jpg" alt="MedClyn" class="w-50">
+                        </a>
+
+                        <p class="small text-muted mb-4">MedClyn este o solutie completa pentru acoperirea peretilor si tavanelor in mediile ce necesita un grad ridicat de curatenie, igiena si aspesie.<a href="https://www.medclyn.com/ce-este-medclyn"><i class="fas fa-long-arrow-right px-1"></i></a></p>
+
+                        <div class="social-links invert text-left">
+                                                            <a target="_blank" class="facebook mx-1 text-center" href="https://www.facebook.com/MedClynRomania/"><i class="fab fa-facebook-f"></i></a>
+                                                                                        <a target="_blank" class="instagram mx-1 text-center" href="https://www.instagram.com/MedClynRomania/"><i class="fab fa-instagram"></i></a>
+                                                                                                                                                                            <a target="_blank" class="youtube mx-1 text-center" href="https://api.whatsapp.com/send?phone=+40733200500&text=Salut!"><i class="fab fa-whatsapp"></i></a>
+                                                    </div>
+                    </div>    
+                </div>
+                
+                
+                <div class="col-12 col-lg-7">
+                    <div class="row">
+                        <div class="col-12 col-lg-4 small mt-5 mt-lg-3">
+                            <h6>Link-uri utile</h6>
+
+                            <a class="d-block py-1" href="https://www.medclyn.com/ce-este-medclyn"><u>Ce este MedClyn?</u></a>
+                            <a class="d-block py-1" href="https://www.medclyn.com/galerie-foto"><u>Galerie Foto</u></a>
+                            <a class="d-block py-1" href="https://www.medclyn.com/video"><u>Video santiere</u></a>
+                            <a class="d-block py-1" href="https://www.medclyn.com/blog"><u>Articole MedClyn</u></a>
+                            <a class="d-block py-1" href="https://www.medclyn.com/testimoniale"><u>Ce spun clientii?</u></a>
+                            <a class="d-block py-1" href="https://www.medclyn.com/contact"><u>Formular de Contact</u></a>
+                        </div>
+
+                        <div class="col-12 col-lg-4 small mt-5 mt-lg-3">
+                            <h6>Unde se utilizeaza?</h6>
+
+                            <a class="d-block py-1" href="https://www.medclyn.com/industria-alimentara"><u>Industria alimentara</u></a>
+                            <a class="d-block py-1" href="https://www.medclyn.com/domeniul-medical"><u>Domeniul medical</u></a>
+                            <a class="d-block py-1" href="https://www.medclyn.com/industria-farmaceutica"><u>Industria farmaceutica</u></a>
+                            <a class="d-block py-1" href="https://www.medclyn.com/industria-cosmetica"><u>Industria cosmetica</u></a>
+                            <a class="d-block py-1" href="https://www.medclyn.com/bucatarii-profesionale"><u>Bucatarii profesionale</u></a>
+                            <a class="d-block py-1" href="https://www.medclyn.com/alte-domenii"><u>Alte domenii</u></a>
+                        </div>
+
+                        <div class="col-12 col-lg-4 small mt-5 mt-lg-3">
+                            <h6>Date de contact</h6>
+
+                            <div class="d-flex align-items-top justify-content-left mb-3">
+                                <div class="mr-4">
+                                    <i class="fal fa-phone"></i>
+                                </div>
+                                <div class="text-left mb-1">
+                                                                            <a  href="tel:0733 200 500">0733 200 500</a><br>
+                                                                    </div>
+                            </div>
+
+                            <div class="d-flex align-items-top justify-content-left mb-3">
+                                <div class="mr-4">
+                                    <i class="fal fa-envelope-open"></i>
+                                </div>
+                                <div class="text-left mb-1">
+                                    <a  href="mailto:contact@medclyn.com">contact@medclyn.com</a><br>
+                                </div>
+                            </div>
+
+                                                            <div class="d-flex align-items-top justify-content-left">
+                                    <div class="mr-4 pr-1">
+                                        <i class="fal fa-map-marker"></i>
+                                    </div>
+                                    <div class="text-left mb-1">
+                                                                                    Strada Oltului 141, Baicoi Prahova, 105200                                                                            </div>
+                                </div>
+                                                    </div>
+                    </div>
+                </div>
+
+                            </div>
+        </div>
+    </div>
+
+
+
+
+
+<footer class="bg-primary text-white">
+	<div class="container clearfix">
+		<div class="row py-3 align-items-center">
+			<div class="col-md-6 col-12 order-md-1 order-3 mt-4 mt-md-0">
+				<div class="text-center text-md-left">
+                    <!--<div>
+                        <img src="https://www.medclyn.com/img/plationline.png" alt="Plati ONline" class="rounded">
+                    </div>-->
+                    
+					<div class="">
+						2026 &copy; MedClyn.
+						Toate drepturile rezervate. 
+                        <span class="d-block d-lg-inline-block">Realizat de						    <a class="text-secondary" href="https://www.hdesign.ro" target="_blank"><strong>HDesign</strong></a>
+                        </span>
+                        
+                        <br>
+                        S.C. MULTI CONTRAST DESIGN S.R.L. | CUI: RO19063140 | J29/2121/2006					</div>
+				</div>
+			</div>
+            
+			<div class="col-md-6 col-12 order-md-2 order-1">
+                <div class="links text-center text-md-right">
+                                                                                                                        <a  href="https://www.medclyn.com/despre-cookie-uri">Cookie</a>
+                                                                                <a  href="https://www.medclyn.com/termeni-si-conditii">Termeni si Conditii</a>
+                                                                                <a  href="https://www.medclyn.com/politica-de-confidentialitate">Confidentialitate</a>
+                                                                                <a target="_blank" href="https://anpc.ro/">ANPC</a>
+                                                                                <a target="_blank" href="https://ec.europa.eu/consumers/odr/main/index.cfm?event=main.home.chooseLanguage">SOL</a>
+                                                                                <a target="_blank" href="https://www.dataprotection.ro/">DP.</a>
+                                                            </div>
+			</div>
+		</div>
+	</div>
+</footer>
+
+
+
+<i id="back-to-top" class="fa fa-arrow-up"></i>
+
+
+<div class="modal fade" id="modal-terms" tabindex="-1" role="dialog">
+	<div class="modal-dialog modal-dialog-centered modal-lg" role="document">
+		<div class="modal-content">
+			<div class="modal-header">
+				<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+				<span aria-hidden="true">&times;</span>
+			</button>
+			</div>
+			<div class="modal-body"></div>
+		</div>
+	</div>
+</div>
+
+<div class="modal fade" id="modal-quickview" tabindex="-1" role="dialog">
+	<div class="modal-dialog modal-xl modal-dialog-centered modal-lg" role="document">
+		<div class="modal-content">
+            <div class="modal-header">
+				<a class="btn btn-sm btn-outline-primary close d-flex align-items-center" style="float: none; font-size: inherit; font-weight: inherit; line-height: inherit; text-shadow: none;">
+                    <i class="far fa-times pe-2 fa-lg"></i>
+                    <span>Inchide</span>
+                </a>
+
+			    <a href="#" class="btn btn-sm btn-none d-flex align-items-center quickViewLinkAdd">
+                    <i class="far fa-arrow-right pe-2"></i>
+                    Vezi detalii produs                </a>
+			</div>
+			<div class="modal-body px-0 pb-0"></div>
+		</div>
+	</div>
+</div>
+
+<div class="modal fade" id="modal-video" tabindex="-1" role="dialog">
+	<div class="modal-dialog modal-dialog-centered modal-lg" role="document">
+		<div class="modal-content">
+			<div class="modal-header">
+				<h4 class="modal-title"></h4>
+				<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+				<span aria-hidden="true">&times;</span>
+			</button>
+			</div>
+			<div class="modal-body p-0">
+				<div class="video-wrapper mb-0">
+					<iframe frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope;" allowfullscreen></iframe>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js" integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js" integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k" crossorigin="anonymous"></script>
+
+<script src="https://www.google.com/recaptcha/api.js?hl=RO&onload=CaptchaCallback&render=explicit" async defer></script>
+<script>
+	var gsitekey = '6LcLU2caAAAAAA78aAul6dqDNZyVmTsdEybr7Kra';
+</script>
+
+<script class="cookie-notif-status" src="https://www.medclyn.com/js/plugins/gdpr-cookie.js"></script>
+
+<script>
+$(document).ready(function() {
+	if ($('.cookie-notif-status').length) {
+		$.gdprcookie.init({
+			title: "ðŸª Utilizam cookie",
+			subtitle: "ðŸª Selecteaza cookie-urile pe care le accepti",
+			message: 'Pentru analiza traficului si pentru a personaliza si optimiza experienta ta online.',
+			submessage: "Te rugam sa debifezi cookie-urile pe care nu le vrei.",
+			delay: 500,
+			expires: 30,
+			acceptBtnLabel: "DA, sunt de acord!",
+			advancedBtnLabel: "Modifica",
+			allowUnadvanced: true,
+			switchAdvanced: true,
+			acceptBeforeAdvanced: [ "essential", "statistics",],
+			cookieName: "cookie-accept",
+			unadvancedBtnLabel: "Inapoi",
+			acceptReload: false,
+			cookieTypes: [
+				{
+					type: "Esentiale",
+					value: "essential",
+					description: "Cookie-uri esentiale pentru ca site-ul sa functioneze corect."
+				}, {
+					checked: true,
+					type: "Statistici",
+					value: "statistics",
+					description: "Cookie-uri ce au legatura cu statisticile site-ului"
+				}, {
+					checked: true,
+					type: "Marketing",
+					value: "marketing",
+					description: "Cookie-uri ce iti ofera elemente de marketing"
+				}
+			],
+		});
+			
+		$(document.body).on("gdpr:accept", function() {
+			acceptCookies();
+		});
+		acceptCookies();
+
+		function acceptCookies() {
+			if ($.gdprcookie.preference("statistics") === true) {
+				$("script[data-cookie='statistics']").each(function() {
+					loadScript(this);
+				});
+			}
+			if ($.gdprcookie.preference("marketing") === true) {
+				$("script[data-cookie='marketing']").each(function() {
+					loadScript(this);
+				});
+			}
+		}
+
+		function loadScript(script) {
+			var src = script.getAttribute("src");
+			var async = script.getAttribute("async");
+			var defer = script.getAttribute("defer");
+			var data_cookie = script.getAttribute("data-cookie");
+			var scriptToLoad = document.createElement('script');
+
+			scriptToLoad.type = 'text/javascript';
+			scriptToLoad.setAttribute("data-cookie", data_cookie);
+
+			if (async != null) {
+				scriptToLoad.setAttribute("async", 1);
+			}
+			if (defer != null) {
+				scriptToLoad.setAttribute("defer", 1);
+			}
+			if (src) {
+				scriptToLoad.src = src;
+			} else {
+				scriptToLoad.textContent = script.textContent;
+			}
+
+			script.replaceWith(scriptToLoad);
+		}
+	}
+});
+</script>
+
+<script type="text/javascript" src="https://www.medclyn.com/js/plugins/jquery.matchHeight-min.js"></script>
+
+
+
+
+
+<script src="https://www.medclyn.com/js/plugins/fancybox-3.5.7/jquery.fancybox.min.js"></script>
+
+	<script type="text/javascript" src="https://www.medclyn.com/js/plugins/swiper/js/swiper.min.js"></script>
+
+
+
+<script src="https://cdn.jsdelivr.net/npm/keen-slider@latest/keen-slider.js"></script>
+
+<script src="https://www.medclyn.com/js/plugins/jquery.onscreen.min.js"></script>
+<script src="https://www.medclyn.com/js/plugins/jquery.cookie-1.4.1.min.js"></script>
+
+<script src="https://www.medclyn.com/js/javascript.js?v=124049"></script>
+
+
+<!-- LOGO -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "MedClyn",
+  "url": "https://www.medclyn.com/",
+  "logo": "https://www.medclyn.com/uploads/website/MedClyn_1.jpg",
+  
+   "sameAs": ["https://www.facebook.com/MedClynRomania/","https://www.instagram.com/MedClynRomania/"],   
+  "contactPoint": [{
+    "@type": "ContactPoint",
+    "telephone": "0733 200 500",
+    "contactType": "Info si Comenzi"
+  }]
+}
+</script>
+
+<!-- LOCAL BUSINESS -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "image": [
+    "https://www.medclyn.com/uploads/website/MedClyn_1.jpg"
+   ],
+  "@id": "https://www.medclyn.com/",
+  "name": "MedClyn",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Strada Oltului 141, Baicoi Prahova, 105200",
+    "addressLocality": "Ploiesti",
+    "addressRegion": "PH",
+    "postalCode": "100100",
+    "addressCountry": "RO"
+  },
+  
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.9435837,
+    "longitude": 26.0143957
+  },
+  "url": "https://www.medclyn.com/",
+  "telephone": "0733 200 500",
+  "priceRange": "$$$",
+  "openingHoursSpecification": [
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday"
+      ],
+      "opens": "10:00",
+      "closes": "18:00"
+    }
+  ]
+}
+</script>
+
+</body>
+</html> 
